@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii 2 Basic Application Template
 ================================
 
@@ -87,3 +88,7 @@ return [
 **NOTE:** Yii won't create the database for you, this has to be done manually before you can access it.
 
 Also check and edit the other files in the `config/` directory to customize your application.
+=======
+# yii2-adminlte
+Yii2 basic project with adminLTE backend them installed
+>>>>>>> f1a78d261435ed47bd26b11cbf93a681b6279603
