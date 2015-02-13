@@ -1,2 +1,2 @@
 # yii2-adminlte
-yii2 project with adminLTE backend them installed
+Yii2 basic project with adminLTE backend them installed
